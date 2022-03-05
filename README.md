@@ -1,7 +1,8 @@
 # Neural_style_transfer
-Apply style transfer on 2 different CSU East Bay campus images, using 2 different painting styles
+Using TensorFlow Hub implement a neural style transfer application.
 
-I will use two painting styles
+Apply style transfer on 2 different CSU East Bay campus images, using 2 different painting styles:
+
 * Surrealism though The Persistence of Memory of Salvador Dalí, 1931
 
 * Cubism though Girl with a Mandolin (Fanny Tellier) by Pablo Picasso, 1910
